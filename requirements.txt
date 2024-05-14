@@ -1,0 +1,7 @@
+camelot-py[base]
+PyPDF2<3.0
+opencv-python~=4.9.0.80
+pyTelegramBotAPI==4.17.0
+requests
+bs4
+ghostscript
