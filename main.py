@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from page_parser import *
 
-bot = telebot.TeleBot('6309077460:AAHr1tpRaaVXcWYe9usooE2fLG7mMVT0yNA')
+bot = telebot.TeleBot('this_your_token')
 
 user_states = {}
 stream_mapping = {
